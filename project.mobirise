@@ -264,6 +264,9 @@
             ".mbr-section-text, .mbr-section-btn": {
               "text-align": "center",
               "color": "#5c6873"
+            },
+            ".btn": {
+              "border-radius": "10px"
             }
           },
           "_name": "header3",
@@ -274,7 +277,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -894,6 +899,9 @@
             },
             ".features": {
               "color": "#50be46"
+            },
+            ".btn": {
+              "border-radius": "10px"
             }
           },
           "_name": "features2",
@@ -1067,7 +1075,6 @@
                   "transition": "all 0.5s",
                   "margin": "0px !important",
                   "background-color": "transparent !important",
-                  "border-radius": "0 !important",
                   "border-left": "none !important",
                   "border-right": "none !important",
                   "border-top": "none !important",
@@ -1165,6 +1172,9 @@
             },
             ".plan-title": {
               "color": "#000000"
+            },
+            ".mbr-section.btn": {
+              "border-radius": "10px"
             }
           },
           "_cid": "tfeNn4jPBr",
@@ -1172,7 +1182,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_name": "tabs3",
@@ -1297,7 +1309,8 @@
             ".btn": {
               "white-space": "nowrap",
               "padding-left": "30px",
-              "padding-right": "30px"
+              "padding-right": "30px",
+              "border-radius": "10px"
             },
             ".form-group": {
               "position": "relative",

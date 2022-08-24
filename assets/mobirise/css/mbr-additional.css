@@ -855,6 +855,9 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #5c6873;
 }
+.cid-sgRL4rrwzy .btn {
+  border-radius: 10px;
+}
 .cid-sgRI0OutEw .navbar {
   background: #fafafa;
   transition: none;
@@ -1413,6 +1416,9 @@ section.lazy-placeholder:after {
 .cid-tfdQGXwMsp .features {
   color: #50be46;
 }
+.cid-tfdQGXwMsp .btn {
+  border-radius: 10px;
+}
 .cid-sgRKomP9d1 {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1538,7 +1544,6 @@ section.lazy-placeholder:after {
   transition: all 0.5s;
   margin: 0px !important;
   background-color: transparent !important;
-  border-radius: 0 !important;
   border-left: none !important;
   border-right: none !important;
   border-top: none !important;
@@ -1637,6 +1642,9 @@ section.lazy-placeholder:after {
 }
 .cid-tfeNn4jPBr .plan-title {
   color: #000000;
+}
+.cid-tfeNn4jPBr .mbr-section.btn {
+  border-radius: 10px;
 }
 .cid-tfe9cMVg3x {
   padding-top: 5rem;
@@ -1738,6 +1746,7 @@ section.lazy-placeholder:after {
   white-space: nowrap;
   padding-left: 30px;
   padding-right: 30px;
+  border-radius: 10px;
 }
 .cid-tfeJEstAJw .form-group {
   position: relative;
