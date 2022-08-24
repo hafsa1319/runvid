@@ -1374,12 +1374,18 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-tfdQGXwMsp .item-wrapper .item-content {
-    padding: 2rem;
+    padding: 2rem 2rem 0;
+  }
+  .cid-tfdQGXwMsp .item-wrapper .item-footer {
+    padding: 2rem 2rem 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-tfdQGXwMsp .item-wrapper .item-content {
-    padding: 1rem;
+    padding: 1rem 1rem 0;
+  }
+  .cid-tfdQGXwMsp .item-wrapper .item-footer {
+    padding: 2rem 1rem 1rem;
   }
 }
 .cid-tfdQGXwMsp .item-wrapper {
